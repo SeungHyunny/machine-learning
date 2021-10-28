@@ -58,5 +58,6 @@ import tensorflow as tf
 /
 plt.show()
 
-😊실행결과😊 : 
+😊실행결과😊 :
+
 <img src="https://user-images.githubusercontent.com/90026605/139187509-1fbfee41-f7b2-4910-ac22-efb4c7dd5e15.png"  width="700" height="370" align="left">
